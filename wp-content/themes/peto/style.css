@@ -14720,3 +14720,17 @@ padding: 10px 15px;
 #product-360 ul li img{
 	cursor: all-scroll;
 }
+
+@media only screen and (max-width: 768px){
+	.woocommerce-account .woocommerce-MyAccount-navigation{
+		width:100%;
+		text-align:center;
+	}
+	.group-blog .post-info ul, .group-blog .post-info ol {
+		margin-left:0px !important;
+	}
+	.woocommerce-account .woocommerce-MyAccount-content {
+		width:100%;
+		margin-left:1px;
+	}
+}
