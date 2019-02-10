@@ -11738,7 +11738,8 @@ body.error404 .page-header p{
 }
 
 .contact_info_map .info_contact{
-	width: 750px;
+	/*width: 750px;*/
+	width: 850px;
 	height: 135px;
 	background-color: #2c2c2c;
 	color: #bbbbbb;
@@ -11750,7 +11751,8 @@ body.error404 .page-header p{
 }
 
 .contact_info_map .info_contact .info_column{
-	width: 33.3333333%;
+/*	width: 33.3333333%;*/
+	width: 25%;
 	height: 100%;
 	float: left;
 	vertical-align: middle;
